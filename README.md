@@ -28,6 +28,15 @@ You then choose one of three roles (no authentication yet) and press Enter to lo
 
 ---
 
+## Getting Started
+
+```bash
+npm install
+npm start
+```
+
+---
+
 ## Key Features
 
 ### 1. Event Listing & Quick Glance
